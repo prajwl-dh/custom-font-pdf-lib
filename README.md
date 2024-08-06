@@ -12,7 +12,7 @@ Sample Raw Json Body Payload:
 
 ```json
 {
-  "name": "Prajwal Dhungana!@#$%^&*()_+<.?;}{👋🔎ÁÑÓÚÜüúóñáéíñ٣٣"
+  "name": "\u0003Prajwal \u0002Dhungana!@#$%^&*()_+<.?;}{👋🔎ÁÑÓÚÜüúóñáéíñ٣٣"
 }
 ```
 

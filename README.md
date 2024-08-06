@@ -15,3 +15,6 @@ Sample Raw Json Body Payload:
   "name": "Prajwal Dhungana!@#$%^&*()_+<.?;}{👋🔎ÁÑÓÚÜüúóñáéíñ٣٣"
 }
 ```
+
+Use a base64 to PDF converter to decode the returned base64 PDF.
+[https://base64.guru/converter/decode/pdf](https://base64.guru/converter/decode/pdf)
